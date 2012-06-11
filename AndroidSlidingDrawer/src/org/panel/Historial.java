@@ -17,6 +17,7 @@ import android.widget.Toast;
 
 import android.widget.EditText;
 //Commit inicial
+//commit prueba
 
 public class Historial extends Activity {	
     /** Called when the activity is first created. */

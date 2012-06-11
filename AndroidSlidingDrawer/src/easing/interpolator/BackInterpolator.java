@@ -30,13 +30,13 @@ package easing.interpolator;
  * OF THE POSSIBILITY OF SUCH DAMAGE. 
  *
  */
-
+//
 import android.view.animation.Interpolator;
 import easing.interpolator.EasingType.Type;
 
 public class BackInterpolator implements Interpolator {
 
-	private Type type;
+	private Type type; 
 	private float overshot;
 
 	public BackInterpolator(Type type, float overshot) {
